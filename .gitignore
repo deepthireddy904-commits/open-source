@@ -1,0 +1,22 @@
+# Python virtual environments & bytecode
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environment secrets
+.env
+.env.local
+
+# Logs
+*.log
+pr_chronicler.log
+
+# System files
+.DS_Store
+*.swp
+
+# Documentation / Markdown files
+*.md
